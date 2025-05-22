@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Gusmano-2-OSU, I'm using GitHub to handle my work at The Ohio State University
+- 👋 Hi, I’m @pm-gusmano, I'm using GitHub to handle my work at The Ohio State University
